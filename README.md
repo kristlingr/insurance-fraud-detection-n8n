@@ -60,7 +60,7 @@ Webhook → Python Logic → Timestamp → Google Sheets → High Risk Alert (Ou
 
 ### 🔹 Google Sheets Output
 
-![Google Sheets](https://github.com/kristlingr/insurance-fraud-detection-n8n-/blob/main/Screeshorts/Fraud%20Data%20Tracker%20.jpg)
+![Google Sheets](Screenshots/Fraud%20Data%20Tracker%20.jpg)
 
 ---
 
