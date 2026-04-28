@@ -87,12 +87,18 @@ version-2 (API enabled)
   "Fraud_Label": 1
 }
 ```
+---
+## 📊 Data Output (Google Sheets)
 
+All processed fraud records are stored and can be accessed here:
+
+👉 [Fraud Detection Data Tracker](https://docs.google.com/spreadsheets/d/1MUUZesurL7Olb5iAqW3IWc72NoxhuWMeYpU0ySzsOgk/edit?gid=273140355#gid=273140355)
 ---
 
 ## 📈 Output Fields
 
 * Predicted_Fraud
+* Fraud Probability
 * Risk_Level
 * Timestamp
 
