@@ -42,7 +42,7 @@ This project helped me understand:
 
 The pipeline was built in two stages — starting with rule-based logic and then evolving into an API-integrated architecture.
 
-![Architecture]
+![Architecture](architecture.png)
 
 This evolution highlights the transition from internal rule-based processing to a scalable, API-driven fraud detection system.
 
